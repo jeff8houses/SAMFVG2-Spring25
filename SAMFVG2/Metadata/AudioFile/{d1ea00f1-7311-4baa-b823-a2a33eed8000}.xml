@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{d1ea00f1-7311-4baa-b823-a2a33eed8000}">
+		<property name="assetPath">
+			<value>foley_footseps_shoe_grass_run.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>96</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>13.357906249999999</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{c11480e2-c9a8-4341-895a-995629425879}</destination>
+		</relationship>
+	</object>
+</objects>
